@@ -1,0 +1,28 @@
+{
+	"short_name": "Kick-Stats",
+	"name": "kick-Stats",
+	"start_url": "https://aaaa-ede10.firebaseapp.com/addingStats.html",
+	"icons": [
+	{
+		"src": "logo.png",
+		"sizes": "192x192",
+		"type": "image/png"
+	},
+	{
+		"src":"logo.png",
+		"sizes": "256x256",
+		"type": "image/png"
+	},
+	{
+		"src":"logo.png",
+		"sizes":"512x512",
+		"type":"image/png"
+	}
+
+	 ],
+	"background_color": "#FAFAFA",
+	"theme_color": "#512DA8",
+	"display": "standalone",
+	"orientation": "portrait"
+		
+}
